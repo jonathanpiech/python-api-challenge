@@ -1,7 +1,0 @@
-1. The temperature vs. latitude graphs show the expected result: the temperature is higher closer to the equator, when latitude is zero, and gets cooler the farther away from the equator. When the graphs are split into the Northern and Southern Hemispheres, the r-squared value of the linear regression are -0.8 and 0.7 showing that there is a correlation between temperature and latitude.
-
-2. The humidity vs. latitude graph shows more high humidity cities than low humidity cities. One factor in this observation could be the time of the year. The scattering of data also shows that there does not seem to be a correlation between humidity and latitude. The linear regression graphs show that this is true with r-squared values of 0.15 and -0.09.
-
-3. The cloudiness vs. latitude graph shows lines of markers at 100%, 75%, 40%, 20% and 0% cloudiness. There does not seem to be a correlation between cloudiness and latitude. The r-squared values of -0.09 and 0.03 supports this claim.
-
-4. The wind speed vs. latitude graph shows that wind speed tend to be between 0 and 15 miles per hour. It also shows that a correlation between wind speed and latitude is not likely. R-squared values of 0.06 and -0.28 from a linear regression of the data shows that this is mostly true. 
