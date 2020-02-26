@@ -13,3 +13,5 @@ The second part of the project was to filter the list of cities by some weather 
 ![alt-text](https://raw.githubusercontent.com/jonathanpiech/weather-vs-latitude/master/PyVacation/map.png "heatmap")
 
 ## Requirements
+
+To run `Weather.ipynb`, you need your own OpenWeatherMap API key. Create a `config.py` file in the folder with variable `api_key` to run without any changes. To run `Vacation.ipynb`, you need your own Google Maps API key. Create a `config.py` file in the folder with variable `gkey` to run without any changes.
