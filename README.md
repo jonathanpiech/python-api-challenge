@@ -17,6 +17,8 @@ The data for this project is used in this website project (https://github.com/jo
 ## Technologies Used
 - Pandas
 - Matplotlib
+- OpenWeatherMap API
+- Google API
 
 ## Requirements
 
